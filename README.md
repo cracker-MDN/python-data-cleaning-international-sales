@@ -1,6 +1,5 @@
 # 🧹 Data Import & Cleaning — International Sales Data
 
-> **Chapter 3 project** from the DataCamp *Data Manipulation with Python* course.  
 > Transforms a messy, multi-format international sales dataset into a clean, analysis-ready file using pandas and regex.
 
 ---
