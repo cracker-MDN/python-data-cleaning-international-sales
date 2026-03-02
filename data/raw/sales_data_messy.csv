@@ -1,0 +1,51 @@
+order_id,order_date,customer_name,customer_email,customer_phone,country,city,product_name,quantity,unit_price,currency,weight,weight_unit,shipping_distance,distance_unit,temperature_required,temp_unit,payment_status,delivery_status
+ORD001,2024-01-15,John Smith,john.smith@email.com,+1-555-123-4567,USA,New York,Organic Coffee Beans,5,24.99,USD,2.5,kg,150,miles,Room Temp,F,Paid,Delivered
+ORD002,15/01/2024,Hans Mueller,hans.mueller@email.de,+49-30-12345678,Germany,Berlin,Premium Tea Set,2,45.00,EUR,1.8,kg,80,km,Room Temp,C,Paid,Delivered
+ORD003,2024-01-16,Marie Dubois,marie.dubois@email.fr,+33-1-23456789,France,Paris,Chocolate Assortment,10,32.50,EUR,3.2,lbs,120,km,18,C,Paid,Delivered
+ORD004,01/17/2024,James Wilson,james.wilson@email,+44-20-12345678,UK,London,Earl Grey Tea,8,18.75,GBP,1.5,kg,95,miles,Room Temp,C,Paid,In Transit
+ORD005,2024-01-17,Yuki Tanaka,yuki.tanaka@email.jp,+81-3-1234-5678,Japan,Tokyo,Matcha Powder,3,52.00,USD,0.9,kg,250,km,15,C,Paid,Delivered
+ORD006,18-01-2024,Carlos Garcia,carlos.garcia@email.es,34-91-1234567,Spain,Madrid,Olive Oil Premium,6,28.00,EUR,4.5,kg,180,km,Room Temp,C,Paid,Delivered
+ORD007,2024-01-18,Emma Brown,emma.brown@emailcom,+1-555-987-6543,USA,Los Angeles,Almond Butter,4,15.99,EUR,2.0,lbs,200,miles,Room Temp,F,Pending,Processing
+ORD008,19/01/2024,Friedrich Weber,friedrich.weber@email.de,+49-89-87654321,Germany,Munich,Black Forest Ham,5,42.00,EUR,2.8,kg,95,miles,4,C,Paid,Delivered
+ORD009,2024-01-19,Sophie Martin,sophie.martin@email.fr,+33-4-98765432,France,Lyon,Cheese Selection,7,55.00,USD,3.5,kg,150,km,6,F,Paid,In Transit
+ORD010,01-20-2024,William Taylor,william.taylor@email.co.uk,+44-161-9876543,UK,Manchester,Scottish Shortbread,12,22.50,GBP,1.8,lbs,85,km,Room Temp,C,Paid,Delivered
+ORD011,2024-01-20,Akiko Sato,akiko.sato@email.jp,81-6-9876-5432,Japan,Osaka,Wagyu Beef Jerky,2,78.00,JPY,0.6,kg,180,km,10,C,Paid,Delivered
+ORD012,21/01/2024,Miguel Santos,miguel.santos@email.pt,+351-21-1234567,Portugal,Lisbon,Port Wine,4,65.00,EUR,6.0,kg,220,km,16,C,Paid,Delivered
+ORD013,2024-01-21,Anna Kowalski,anna.kowalski@email.pl,+48-22-1234567,Poland,Warsaw,Honey Collection,8,19.99,PLN,2.4,kg,340,km,Room Temp,C,Paid,Processing
+ORD014,22-01-2024,Robert Johnson,robert.johnson@email.com,1-555-456-7890,USA,Chicago,Maple Syrup,6,34.00,USD,3.6,lbs,175,km,Room Temp,F,Paid,Delivered
+ORD015,2024-01-22,Lisa Schmidt,lisa.schmidt@email.de,+49-40-5678901,Germany,Hamburg,Marzipan Treats,10,27.50,EUR,1.2,kg,65,km,Room Temp,C,Pending,Processing
+ORD016,23/01/2024,Pierre Lefebvre,pierre.lefebvre@email.fr,+33-5-67890123,France,Bordeaux,Wine Selection,3,120.00,EUR,9.0,kg,280,km,14,C,Paid,In Transit
+ORD017,2024-01-23,Sarah Davis,sarah.davis@email.com,+1-555-234-5678,USA,Miami,Cuban Coffee,5,29.99,GBP,2.0,kg,120,miles,Room Temp,F,Paid,Delivered
+ORD018,01/24/2024,Thomas Anderson,thomas.anderson@email.co.uk,+44-113-2345678,UK,Leeds,Yorkshire Tea,15,16.00,GBP,2.2,kg,78,miles,Room Temp,C,Paid,Delivered
+ORD019,2024-01-24,Kenji Yamamoto,kenji.yamamoto@email.jp,+81-75-2345-6789,Japan,Kyoto,Green Tea Collection,4,68.00,JPY,1.1,lbs,195,km,Room Temp,C,Paid,Delivered
+ORD020,25-01-2024,Elena Rossi,elena.rossi@email.it,+39-02-3456789,Italy,Milan,Truffle Oil,2,89.00,EUR,0.8,kg,145,km,Room Temp,C,Paid,Delivered
+ORD021,2024-01-25,Michael Brown,michael.brown@email.com,+1-555-345-6789,USA,Houston,BBQ Sauce Set,8,24.50,USD,4.8,lbs,280,km,Room Temp,F,Paid,In Transit
+ORD022,26/01/2024,Klaus Fischer,klaus.fischer@email.de,+49-69-4567890,Germany,Frankfurt,Bratwurst Pack,6,35.00,EUR,3.0,kg,88,km,2,C,Paid,Delivered
+ORD023,2024-01-26,Isabelle Moreau,isabelle.moreau@email.fr,+33-3-45678901,France,Strasbourg,Foie Gras,2,145.00,EUR,0.9,kg,160,km,4,F,Paid,Delivered
+ORD024,01-27-2024,David Wilson,david.wilson@email,+44-131-3456789,UK,Edinburgh,Scotch Whisky,2,85.00,GBP,2.4,kg,92,miles,Room Temp,C,Paid,Delivered
+ORD025,2024-01-27,Haruto Suzuki,haruto.suzuki@email.jp,+81-52-3456-7890,Japan,Nagoya,Sake Set,3,95.00,JPY,4.2,kg,210,km,Room Temp,C,Pending,Processing
+ORD026,28/01/2024,Carmen Lopez,carmen.lopez@email.es,+34-93-5678901,Spain,Barcelona,Chorizo Selection,7,31.00,EUR,2.1,kg,175,km,6,C,Paid,Delivered
+ORD027,2024-01-28,Jennifer Miller,jennifer.miller@email.com,555-456-7891,USA,Seattle,Smoked Salmon,4,48.00,USD,1.8,kg,165,miles,2,F,Paid,Delivered
+ORD028,29-01-2024,Wolfgang Braun,wolfgang.braun@email.de,+49-711-6789012,Germany,Stuttgart,Pretzel Assortment,12,18.00,EUR,2.5,lbs,72,km,Room Temp,C,Paid,Delivered
+ORD029,2024-01-29,Claire Petit,claire.petit@email.fr,+33-1-56789012,France,Paris,Macaron Box,15,42.00,EUR,0.8,kg,25,km,18,C,Paid,Delivered
+ORD030,30/01/2024,George Thompson,george.thompson@email.co.uk,+44-121-4567890,UK,Birmingham,Cheddar Collection,5,38.00,USD,2.5,kg,68,km,8,C,Paid,In Transit
+ORD031,2024-01-30,Sakura Ito,sakura.ito@email.jp,+81-78-4567-8901,Japan,Kobe,Kobe Beef,1,250.00,JPY,0.5,kg,185,km,0,C,Paid,Delivered
+ORD032,31-01-2024,Antonio Ferrari,antonio.ferrari@email.it,+39-06-5678901,Italy,Rome,Pasta Collection,8,26.00,EUR,3.2,kg,195,km,Room Temp,C,Paid,Delivered
+ORD033,2024-01-31,Rachel Green,rachel.green@email.com,+1-555-567-8901,USA,Boston,Lobster Bisque,6,52.00,USD,4.2,lbs,140,miles,-18,F,Paid,Delivered
+ORD034,01/02/2024,Stefan Muller,stefan.muller@email.de,+49-221-7890123,Germany,Cologne,Gummy Bears,20,12.00,EUR,1.5,kg,55,km,Room Temp,C,Paid,Delivered
+ORD035,2024-02-01,Camille Durand,camille.durand@email.fr,+33-4-67890123,France,Nice,Lavender Honey,5,28.00,GBP,1.8,kg,320,km,Room Temp,C,Paid,Processing
+ORD036,02-02-2024,Oliver Smith,oliver.smith@email.co.uk,+44-151-5678901,UK,Liverpool,Fish and Chips Kit,4,32.00,GBP,3.5,kg,82,miles,4,C,Pending,Processing
+ORD037,2024-02-02,Yui Nakamura,yui.nakamura@email.jp,+81-92-5678-9012,Japan,Fukuoka,Ramen Kit,6,38.00,JPY,2.8,lbs,240,km,Room Temp,C,Paid,Delivered
+ORD038,03/02/2024,Isabella Costa,isabella.costa@email.pt,+351-22-2345678,Portugal,Porto,Sardine Selection,10,22.00,EUR,1.5,kg,195,km,Room Temp,C,Paid,In Transit
+ORD039,2024-02-03,Daniel Martinez,daniel.martinez@email.com,+1-555-678-9012,USA,Denver,Elk Jerky,3,45.00,USD,0.9,lbs,185,miles,Room Temp,F,Paid,Delivered
+ORD040,04-02-2024,Monika Schulz,monika.schulz@email.de,+49-351-8901234,Germany,Dresden,Stollen Cake,4,35.00,EUR,2.8,kg,125,km,Room Temp,C,Paid,Delivered
+ORD041,2024-02-04,Julien Bernard,julien.bernard@email.fr,+33-2-78901234,France,Nantes,Butter Collection,8,24.00,EUR,2.0,kg,180,km,6,C,Paid,Delivered
+ORD042,05/02/2024,Charlotte Wilson,charlotte.wilson@email.co.uk,44-171-6789012,UK,Bristol,Clotted Cream,6,28.00,GBP,1.8,lbs,75,km,4,C,Paid,Processing
+ORD043,2024-02-05,Ren Watanabe,ren.watanabe@email.jp,+81-11-6789-0123,Japan,Sapporo,Miso Paste Set,5,32.00,JPY,2.5,kg,320,km,8,C,Paid,Delivered
+ORD044,06-02-2024,Lucia Fernandez,lucia.fernandez@email.es,+34-96-6789012,Spain,Valencia,Paella Kit,4,48.00,EUR,3.8,kg,210,km,Room Temp,C,Paid,Delivered
+ORD045,2024-02-06,Amanda Johnson,amanda.johnson@email.com,+1-555-789-0123,USA,Phoenix,Hot Sauce Collection,10,35.00,EUR,2.2,kg,195,miles,Room Temp,F,Paid,In Transit
+ORD046,07/02/2024,Maximilian Koch,maximilian.koch@email.de,+49-511-9012345,Germany,Hanover,Lebkuchen Box,8,29.00,EUR,1.4,kg,92,km,Room Temp,C,Paid,Delivered
+ORD047,2024-02-07,Amelie Roux,amelie.roux@email.fr,+33-5-89012345,France,Toulouse,Duck Confit,3,68.00,EUR,2.1,kg,245,km,4,C,Paid,Delivered
+ORD048,08-02-2024,Henry Davies,henry.davies@email.co.uk,+44-29-7890123,UK,Cardiff,Welsh Cakes,12,18.00,GBP,1.2,kg,65,km,Room Temp,C,Paid,Delivered
+ORD049,2024-02-08,Takeshi Kimura,takeshi.kimura@email.jp,+81-82-7890-1234,Japan,Hiroshima,Okonomiyaki Kit,4,42.00,USD,2.8,kg,280,km,Room Temp,C,Pending,Processing
+ORD050,09/02/2024,Francesca Bianchi,francesca.bianchi@email.it,+39-055-6789012,Italy,Florence,Biscotti Set,6,24.00,EUR,0.9,kg,155,km,Room Temp,C,Paid,Delivered
