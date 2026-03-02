@@ -190,7 +190,7 @@ Synthetic international sales data with fields:
 
 ## Author
 
-[Your Name]
+[MD Noornabi]
 
 ## License
 
