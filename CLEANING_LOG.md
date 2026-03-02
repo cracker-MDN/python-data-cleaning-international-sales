@@ -1,4 +1,4 @@
-# Data Cleaning Log - Chapter 3: International Sales Standardizer
+# Data Cleaning Log - International Sales Standardizer
 
 Detailed record of all data quality issues identified and decisions made during the cleaning process.
 
